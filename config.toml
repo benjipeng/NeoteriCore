@@ -1,3 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://18b1-193-122-139-37.ngrok-free.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+theme = 'paper'
+title = 'NeoteriCore -- A minimalist blog'
